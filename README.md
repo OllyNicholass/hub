@@ -1,5 +1,7 @@
 # hub
 
+A basic home DHCP server using [PiHole](https://pi-hole.net/) providing easily configurable network-wide ad-block, set up using docker-compose on a Raspberry Pi Home Server.
+
 ## Prerequisites
 
 - Docker
